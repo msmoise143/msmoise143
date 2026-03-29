@@ -1,6 +1,6 @@
 # Hi, I'm Mario 👋
 
-I’m a Computer Science student at the **Lucian Blaga University of Sibiu**. I’m a builder at heart who enjoys diving deep into projects—whether it's low-level C++ or modern web interfaces.
+I’m a Computer Engineering student at the **Lucian Blaga University of Sibiu**. I’m a builder at heart who enjoys diving deep into projects—whether it's low-level C++ or modern web interfaces.
 
 ### 🛠️ Tech & Curiosity
 - **Current Focus:** Software Engineering and exploring how hardware talks to software.
